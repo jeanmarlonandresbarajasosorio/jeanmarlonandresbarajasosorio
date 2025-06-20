@@ -7,7 +7,7 @@
 <p align="center">
   🎓 Estudiante de programación en <strong>Campuslands</strong> <br/>
   📍 Bucaramanga, Colombia 🇨🇴 <br/>
-  💻 Apasionado por el desarrollo web, la lógica y la tecnología <br/>
+  💻 Apasionado por el desarrollo web, bases de datos y la tecnología <br/>
 </p>
 
 ---
@@ -32,12 +32,6 @@ Soy un estudiante en formación con conocimientos sólidos en desarrollo web y b
 
 ---
 
-## ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanMarlonDev&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlonDev&layout=compact&theme=radical"/>
-</p>
 
 ---
 
