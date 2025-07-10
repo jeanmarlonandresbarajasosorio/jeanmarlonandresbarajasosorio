@@ -31,11 +31,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanMarlonDev&show_icons=true&theme=tokyonight" alt="Jean Marlon GitHub Stats"/>
+  <img src="https://github.com/jeanmarlonandresbarajasosorio" alt="Jean Marlon GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanMarlonDev&theme=tokyonight" alt="Jean Marlon Streak"/>
+  <img src="https://github.com/jeanmarlonandresbarajasosorio" alt="Jean Marlon Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlonDev&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github.com/jeanmarlonandresbarajasosorio" alt="Top Langs"/>
 </p>
 
 ---
