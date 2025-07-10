@@ -1,26 +1,26 @@
-<h1 align="center">👋 Hola, soy Jean Marlon</h1>
+<h1 align="center">✨ Hola, soy Jean Marlon ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Estudiante+de+programaci%C3%B3n;Desarrollador+Web+en+formaci%C3%B3n;Apasionado+por+la+tecnolog%C3%ADa+y+la+l%C3%B3gica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Estudiante+de+Programación;Desarrollador+Web+en+formación;Amante+de+la+tecnología+y+la+lógica;Bienvenido+a+mi+GitHub!+" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://i.gifer.com/7plH.gif" width="400" alt="Code Animation GIF"/>
 </p>
 
 ---
 
-## 📝 Sobre mí
+## 🧠 Sobre mí
 
-🎓 Soy estudiante de **programación en Campuslands**, en Bucaramanga 🇨🇴.
+🎓 Soy estudiante de **programación en Campuslands**, ubicado en Bucaramanga, Colombia 🇨🇴.
 
-💡 Me apasiona la **programación web**, los algoritmos y crear soluciones que generen impacto.
+💡 Me apasiona la **programación web, la lógica y los algoritmos**.
 
-🌱 Actualmente mejoro mis habilidades y desarrollo proyectos para fortalecer mi aprendizaje.
+🌱 Actualmente estoy profundizando mis habilidades en desarrollo web y bases de datos.
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🚀 Tecnologías que manejo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,mongodb,git" />
@@ -28,14 +28,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanMarlonDev&show_icons=true&theme=tokyonight" alt="Jean Marlon GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanMarlonDev&show_icons=true&theme=merko" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanMarlonDev&theme=tokyonight" alt="Jean Marlon Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanMarlonDev&theme=merko" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlonDev&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlonDev&layout=compact&theme=merko" alt="Top Languages"/>
 </p>
 
 ---
@@ -43,11 +43,11 @@
 ## 🌐 Contacto
 
 <p align="center">
-  📩 Puedes escribirme por aquí en GitHub o encontrarme en mis redes para colaborar en proyectos, resolver dudas o compartir conocimiento.
+  💬 Estoy abierto a colaborar en proyectos, resolver dudas o compartir ideas.
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" alt="Handshake GIF"/>
+  <img src="https://media.giphy.com/media/xT9IgpRAyUuVXwDniU/giphy.gif" width="200" alt="Handshake GIF"/>
 </p>
 
 ---
