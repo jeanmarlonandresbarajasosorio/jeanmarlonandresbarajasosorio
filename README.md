@@ -1,54 +1,31 @@
-<h1 align="center">✨ Jean Marlon ✨</h1>
+<h1 align="center">Jean Marlon</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hola%2C+bienvenido+a+mi+GitHub;Soy+Jean+Marlon;Estudiante+de+Programaci%C3%B3n+en+Campuslands;Desarrollador+Web+en+formaci%C3%B3n;Amante+de+la+tecnolog%C3%ADa+y+la+l%C3%B3gica" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="400" alt="Professional Coding GIF"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0D96F2&center=true&vCenter=true&width=500&lines=Estudiante+de+Programación;Desarrollador+Web+en+Formación;Campuslands+Bucaramanga;Bienvenido+a+mi+GitHub" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Soy estudiante de **programación en Campuslands**, ubicado en Bucaramanga, Colombia 🇨🇴.  
-💡 Me apasiona la **programación web, bases de datos y algoritmos**.  
-🚀 Actualmente estoy desarrollando proyectos que fortalecen mi lógica y habilidades técnicas.
+🎓 Estudiante de **programación en Campuslands**, Bucaramanga, Colombia 🇨🇴.  
+💡 Apasionado por la tecnología, el desarrollo web y la lógica de programación.  
+🚀 Siempre en proceso de aprendizaje y crecimiento profesional.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,mongodb,git" />
-</p>
+- **Lenguajes de programación:** Python, JavaScript  
+- **Desarrollo web:** HTML, CSS  
+- **Bases de datos:** MySQL, MongoDB  
+- **Control de versiones:** Git & GitHub
 
 ---
 
----
-
-## 🐍 Animación de contribuciones
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## 🌐 Contacto
-
-📩 **Correo:** [j6757984@gmail.com]    
-📍 **Ubicación:** Bucaramanga, Colombia
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" alt="Handshake GIF"/>
-</p>
-
-<p align="center">
-  ✨ Gracias por visitar mi perfil. ¡Seguimos creciendo y aprendiendo! 🚀
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanMarlonDev&show_icons=true&theme=graywhite" alt="GitHub Stats" width="400"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanMarlonDev&theme=graywhite" alt="GitHub Streak" wi
