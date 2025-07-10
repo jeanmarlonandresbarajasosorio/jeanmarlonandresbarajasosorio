@@ -28,16 +28,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanMarlonDev&show_icons=true&theme=onedark" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanMarlonDev&theme=onedark" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlonDev&layout=compact&theme=onedark" alt="Top Languages"/>
-</p>
-
 ---
 
 ## 🐍 Animación de contribuciones
@@ -50,8 +40,7 @@
 
 ## 🌐 Contacto
 
-📩 **Correo:** [tu-correo-aquí@gmail.com]  
-💼 **LinkedIn:** [Tu LinkedIn aquí]  
+📩 **Correo:** [j6757984@gmail.com]    
 📍 **Ubicación:** Bucaramanga, Colombia
 
 ---
