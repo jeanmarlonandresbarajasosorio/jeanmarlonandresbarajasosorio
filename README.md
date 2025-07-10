@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
-
----
+ 
 
 ## 📝 Sobre mí
 
@@ -17,28 +16,14 @@
 💡 Me apasiona la **programación web**, los algoritmos y crear soluciones que generen impacto.
 
 🌱 Actualmente mejoro mis habilidades y desarrollo proyectos para fortalecer mi aprendizaje.
-
----
-
+ 
 ## 🛠️ Tecnologías que manejo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,mongodb,git" />
 </p>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github.com/jeanmarlonandresbarajasosorio" alt="Jean Marlon GitHub Stats"/>
-  <br/>
-  <img src="https://github.com/jeanmarlonandresbarajasosorio" alt="Jean Marlon Streak"/>
-  <br/>
-  <img src="https://github.com/jeanmarlonandresbarajasosorio" alt="Top Langs"/>
-</p>
-
----
 
 ## 🌐 Contacto
 
@@ -50,7 +35,7 @@
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="200" alt="Handshake GIF"/>
 </p>
 
----
+
 
 <p align="center">
   ✨ Gracias por visitar mi perfil. ¡Nunca dejamos de aprender! 🚀
