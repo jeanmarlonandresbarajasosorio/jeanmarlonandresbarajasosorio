@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hola, soy Jean Marlon</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7B42C&width=500&lines=Programador+Web+Full+Stack;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7B42C&width=500&lines=Programador+Full+Stack;" alt="Typing SVG" />
 </p>
 
 <p align="center">
