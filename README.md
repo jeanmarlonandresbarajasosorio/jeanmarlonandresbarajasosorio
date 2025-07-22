@@ -14,9 +14,9 @@
 
 ## 📝 Sobre mí
 
-🎓 Soy estudiante de programación en **Campuslands**, en Bucaramanga 🇨🇴.
+🎓 Soy estudiante de programación en **Campuslands**, en Bucaramanga 🇨🇴l.
 
-💡 Me apasiona la **programación web**, los **algoritmos** y crear soluciones que generen impacto.
+💡 Me apasiona la **programación web**, el **backend** los **algoritmos** y crear soluciones que generen impacto.
 
 🌱 Actualmente mejoro mis habilidades y desarrollo proyectos para fortalecer mi aprendizaje.
 
