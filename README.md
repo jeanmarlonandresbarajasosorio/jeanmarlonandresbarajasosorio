@@ -58,7 +58,7 @@
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://github.com/jeanmarlonandresbarajasosorio-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/JeanMarlon/JeanMarlon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -67,14 +67,10 @@
 
 📩 Puedes escribirme por aquí en **GitHub** o encontrarme en mis redes para **colaborar en proyectos**, resolver dudas o compartir conocimiento.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Handshake GIF" />
-</p>
-
----
+--
 
 <h3 align="center">✨ Gracias por visitar mi perfil. <br> ¡Nunca dejamos de aprender! 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/jeanmarlonandresbarajasosorio=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=JeanMarlon&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
 </p>
