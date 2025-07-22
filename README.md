@@ -55,14 +55,6 @@
 
 ---
 
-## 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://github.com/JeanMarlon/JeanMarlon/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🌐 Contacto
 
 📩 Puedes escribirme por aquí en **GitHub** o encontrarme en mis redes para **colaborar en proyectos**, resolver dudas o compartir conocimiento.
