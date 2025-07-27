@@ -45,10 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JeanMarlon&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlon&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
 ---
 
 ## 🌐 Contacto
