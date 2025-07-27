@@ -1,9 +1,9 @@
-<!-- README de presentación de Jean Marlon -->
+<!-- README profesional de Jean Marlon -->
 
 <h1 align="center">👋 Hola, soy Jean Marlon</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7B42C&width=500&lines=Programador+Full+Stack;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=007AFF&width=500&lines=Programador+Web+Full+Stack;Apasionado+por+la+tecnología+y+el+código;Nunca+dejamos+de+aprender" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,10 +14,8 @@
 
 ## 📝 Sobre mí
 
-🎓 Soy estudiante de programación en **Campuslands**, en Bucaramanga 🇨🇴l.
-
-💡 Me apasiona la **programación web**, el **backend** los **algoritmos** y crear soluciones que generen impacto.
-
+🎓 Soy estudiante de programación en **Campuslands**, en Bucaramanga 🇨🇴.  
+💡 Me apasiona la **programación web**, los **algoritmos** y crear soluciones que generen impacto.  
 🌱 Actualmente mejoro mis habilidades y desarrollo proyectos para fortalecer mi aprendizaje.
 
 ---
@@ -28,41 +26,73 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode&theme=light" alt="Tecnologías Jean Marlon" />
 </p>
 
-<!-- Badges con animación -->
+---
+
+## 🚀 Proyectos Destacados
+
+### 🔹 [Campus Parking](https://github.com/jeanmarlonandresbarajasosorio/campus_parking)  
+Sistema de registro y control de parqueaderos del campus.  
+Tecnologías: Node.js, JavaScript  
+
+---
+
+### 🔹 [Conciertos Conectados](https://jeanmarlonandresbarajasosorio.github.io/Conciertos_Conectados/)  
+Interfaz web para la compra de entradas y gestión de eventos privados.  
+Tecnologías: HTML, CSS  
+
+---
+
+### 🔹 [Simulador de Batallas RPG](https://github.com/jeanmarlonandresbarajasosorio/Simulador_Batallas_RPG)  
+Aplicación de consola interactiva para crear personajes, simular batallas por turnos, gestionar habilidades y objetos, aplicando POO y principios SOLID.  
+Tecnologías: Node.js, JavaScript  
+
+---
+
+## 📜 Certificación
+
+🎓 **Técnico en Programación Avanzada**  
+📍 *Campuslands, Bucaramanga*  
+📅 *Octubre 2024 – Octubre 2025*
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanmarlonandresbarajasosorio&show_icons=true&theme=blueberry" alt="Estadísticas de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarlonandresbarajasosorio&layout=compact&theme=blueberry" alt="Lenguajes más usados" />
 </p>
 
 ---
 
-## 📈 Mis estadísticas de GitHub
+## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanMarlon&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanMarlon&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github.com/jeanmarlonandresbarajasosorio/jeanmarlonandresbarajasosorio/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ## 🌐 Contacto
 
-📩 Puedes escribirme por aquí en **GitHub** o encontrarme en mis redes para **colaborar en proyectos**, resolver dudas o compartir conocimiento.
-
-
-
-<h3 align="center">✨ Gracias por visitar mi perfil. <br> ¡Nunca dejamos de aprender! 🚀</h3>
+- 📩 **Correo:** j6757984@gmail.com  
+- 💼 **LinkedIn:** [Jean Marlon Barajas](https://www.linkedin.com/in/jean-marlon-barajas-4b6323377/)  
+- 🌐 **Portafolio:** [Mi Portafolio Web](https://jeanmarlonandresbarajasosorio.github.io/portafolio/)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JeanMarlon&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Handshake GIF" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Gracias por visitar mi perfil.  
+  <br><strong>¡Nunca dejamos de aprender! 🚀</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeanmarlonandresbarajasosorio&label=Visitas&color=007AFF&style=flat" alt="Contador de visitas" />
 </p>
