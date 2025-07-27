@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7B42C&width=500&lines=Programador+Full+Stack;" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
-</p>
-
 ---
 
 ## 📝 Sobre mí
